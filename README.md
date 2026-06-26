@@ -82,6 +82,6 @@ The notebook is designed as a portfolio-ready case study to demonstrate practica
 
 ## 👨‍💻 Author
 
-**Yogesh Ghadling**
+**Divya Tembhekar**
 
 Aspiring AI/ML Engineer | Data Analyst | Generative AI Enthusiast
